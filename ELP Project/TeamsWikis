@@ -1,0 +1,25 @@
+teams = ["Huddersfield_Town",
+"Leeds_United",
+"Leicester_City",
+"Liverpool",
+"Luton_Town",
+"Manchester_City",
+"Manchester_United",
+"Middlesbrough",
+"Newcastle_United",
+"Norwich_City",
+"Nottingham_Forest",
+"Sheffield_United",
+"Southampton",
+"Stoke_City",
+"Sunderland",
+"Swansea_City",
+"Tottenham_Hotspur",
+"Watford",
+"West_Bromwich_Albion",
+"West_Ham_United",
+"Wolverhampton_Wanderers"]
+
+for team in teams: 
+    print(f"https://en.wikipedia.org/wiki/List_of_{team}_F.C._seasons")
+    
